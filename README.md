@@ -1,0 +1,1 @@
+Projects done to learn and experiment with mobile development. Done during the 5th semester of university.
